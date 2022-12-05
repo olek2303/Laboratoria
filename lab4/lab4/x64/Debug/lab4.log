@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Jarek\Desktop\lab4\lab4\main.cpp(354): warning C4715: "druga<Stos2>::pop”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Jarek\Desktop\lab4\lab4\main.cpp(354): warning C4715: "druga<pierwsza<Stos2> >::pop”: niewszystkie ścieżki kodu zwracają wartość
+  lab4.vcxproj -> C:\Users\Jarek\Desktop\lab4\x64\Debug\lab4.exe
