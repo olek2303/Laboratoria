@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\LABY ZTP\LAB 6\lab6\lab6\main.cpp(28,15): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+E:\LABY ZTP\LAB 6\lab6\lab6\main.cpp(51,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  lab6.vcxproj -> E:\LABY ZTP\LAB 6\lab6\x64\Debug\lab6.exe

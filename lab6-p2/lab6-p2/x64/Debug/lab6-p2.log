@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\LABY ZTP\LAB 6\lab6-p2\lab6-p2\main.cpp(44,15): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+E:\LABY ZTP\LAB 6\lab6-p2\lab6-p2\main.cpp(38): warning C4715: "generator”: niewszystkie ścieżki kodu zwracają wartość
+  lab6-p2.vcxproj -> E:\LABY ZTP\LAB 6\lab6-p2\x64\Debug\lab6-p2.exe
